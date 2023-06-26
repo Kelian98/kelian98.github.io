@@ -6,44 +6,37 @@ classes: wide
 ---
 
 Besides my work, I have a keen interest for astronomy in general. I do visual astronomy since the age of 13 and engaged into the rabbit hole of astrography less than five years ago.
-On my spare time, I like to practice sports as much as possible. Especially cycling, running and trekking. I also like to read a lot about politics and science-fiction as well as DIY home projects involving electronics, sensors and microcomputers.
+
 
 <div class="gallery-scroll">
-  <a href="/images/sports/travels-1.jpg" title="Hiking the Anapurnas in Nepal" class="image-popup">
-    <img class="gallery-img" src="/images/sports/thumbnails/travels-1.jpg" alt="Hiking the Anapurnas in Nepal">
+  <a href="/images/astrophotography/m31.jpg" title="M31" class="image-popup">
+    <img class="gallery-img" src="/images/astrophotography/thumbnails/m31.jpg" style='height: 280px; object-fit: fill' alt="M31 - Andromeda galaxy">
   </a>
-  <a href="/images/sports/travels-2.jpg" title="Hiking the Anapurnas in Nepal" class="image-popup">
-    <img class="gallery-img" src="/images/sports/thumbnails/travels-2.jpg" alt="Hiking the Anapurnas in Nepal">
+  <a href="/images/astrophotography/m42.jpg" title="M42" class="image-popup">
+    <img class="gallery-img" src="/images/astrophotography/thumbnails/m42.jpg" style='height: 280px; object-fit: fill;' alt="M42 - Orion Nebula">
   </a>
-  <a href="/images/sports/travels-3.jpg" title="Travel in India" class="image-popup">
-    <img class="gallery-img" src="/images/sports/thumbnails/travels-3.jpg" alt="Travel in India">
+  <a href="/images/astrophotography/m45.jpg" title="M45" class="image-popup">
+    <img class="gallery-img" src="/images/astrophotography/thumbnails/m45.jpg" style='height: 280px; object-fit: fill;' alt="M45 - Pleiades">
   </a>
-  <a href="/images/sports/travels-4.jpg" title="Visiting Trieste" class="image-popup">
-    <img class="gallery-img" src="/images/sports/thumbnails/travels-4.jpg" alt="Visiting Trieste">
+  <a href="/images/astrophotography/m101_ohp.jpg" title="M101" class="image-popup">
+    <img class="gallery-img" src="/images/astrophotography/thumbnails/m101_ohp.jpg" style='height: 280px; object-fit: fill;' alt="M101 - Pinwheel galaxy">
   </a>
-  <a href="/images/sports/travels-5.jpg" title="Visiting Venise" class="image-popup">
-    <img class="gallery-img" src="/images/sports/thumbnails/travels-5.jpg" alt="Visiting Venise">
+  <a href="/images/astrophotography/t193_ohp.jpg" title="T193" class="image-popup">
+    <img class="gallery-img" src="/images/astrophotography/thumbnails/t193_ohp.jpg" style='height: 280px; object-fit: fill;' alt="T193 - OHP">
   </a>
-</div>
-<p class="gallery-caption">Some of the places I've traveled to</p>
-
-I like to keep in shape by praticing sports as much as possible. I regularly rock climb, ski, sail and kite surf and I'm always looking to discover new activities.
-
-<div class="gallery-scroll">
-  <a href="/images/sports/sports-1.jpg" title="Climbing the Calanques" class="image-popup">
-    <img class="gallery-img" src="/images/sports/thumbnails/sports-1.jpg" alt="Climbing in the Calanques">
+  <a href="/images/astrophotography/ic1396.jpg" title="IC1396" class="image-popup">
+    <img class="gallery-img" src="/images/astrophotography/thumbnails/ic1396.jpg" style='height: 280px; object-fit: fill;' alt="IC1396- Elephant Trunk's Nebula">
   </a>
-  <a href="/images/sports/sports-2.jpg" title="Rock climbing" class="image-popup">
-    <img class="gallery-img" src="/images/sports/thumbnails/sports-2.jpg" alt="Rock climbing">
+  <a href="/images/astrophotography/m27_ohp.jpg" title="M27" class="image-popup">
+    <img class="gallery-img" src="/images/astrophotography/thumbnails/m27_ohp.jpg" style='height: 280px; object-fit: fill;' alt="M27 - Dumbbell Nebula">
   </a>
-  <a href="/images/sports/sports-3.jpg" title="Skiing the Alps" class="image-popup">
-    <img class="gallery-img" src="/images/sports/thumbnails/sports-3.jpg" alt="Skiing the Alps">
+  <a href="/images/astrophotography/m8.jpg" title="M8" class="image-popup">
+    <img class="gallery-img" src="/images/astrophotography/thumbnails/m8.jpg" style='height: 280px; object-fit: fill;' alt="M8 - Trifid Nebula">
   </a>
-  <a href="/images/sports/sports-4.jpg" title="Sailing in Brittany" class="image-popup">
-    <img class="gallery-img" src="/images/sports/thumbnails/sports-4.jpg" alt="Sailing in Brittany">
-  </a>
-  <a href="/images/sports/sports-5.jpg" title="Kite surfing" class="image-popup">
-    <img class="gallery-img" src="/images/sports/thumbnails/sports-5.jpg" alt="Kite surfing">
+  <a href="/images/astrophotography/ngc7000.jpg" title="NGC7000" class="image-popup">
+    <img class="gallery-img" src="/images/astrophotography/thumbnails/ngc7000.jpg" style='height: 280px; object-fit: fill;' alt="NGC7000 - North America Nebula">
   </a>
 </div>
-<p class="gallery-caption">Some of the sports I practice</p>
+<p class="gallery-caption">Some of the deep sky objects I captured across the years</p>
+
+On my spare time, I like to practice sports as much as possible. Especially cycling, running and trekking. I also like to read a lot about politics, science and fiction as well as DIY home projects involving electronics, 3D printing, sensors and microcomputers.

@@ -135,7 +135,7 @@
 
   img {
     max-width: 300px;
-    border-radius: 50%;
+    border-radius: 5%;
 
     @include breakpoint($large) {
       padding: 5px;
@@ -147,14 +147,16 @@
 .author__content {
   display: table-cell;
   vertical-align: top;
+  //text-align: center;
   padding-left: 15px;
-  padding-right: 25px;
+  padding-right: 20px;
+  padding-top: 10px;
   line-height: 1;
 
   @include breakpoint($large) {
     display: block;
     width: 100%;
-    padding-left: 0;
+    padding-left: 10px;
     padding-right: 0;
   }
 
@@ -198,6 +200,10 @@
     a {
       margin-bottom: 0;
     }
+  }
+
+  li {
+    padding-left: 10px;
   }
 
   .author__urls {
