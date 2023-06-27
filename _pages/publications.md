@@ -6,9 +6,9 @@ author_profile: true
 classes: wide
 ---
 
-### Main author
-{: style="font-size:.85em; color: #7a8288;"}
----
+## **Main author**
+{: style="color: #7a8288;"}
+--- 
 
 **Design and performance assessment of a Collimated Beam Projector using a broadband light source**\
 *In prep.*\
@@ -22,8 +22,8 @@ K. Sommer, J. Cohen-Tanugi, E. Nuss, B. Plez, M. Moniez, S. Dagoret-Campagne, M.
 *Moriond poster conference proceedings, 2022*\
 K. Sommer, E. Nuss, T. Souverin, J. Neveu, M. Betoule, S. Bongard, J. Cohen Tanugi, S. Dagoret-Campagne, F. Feinstein, C. Juramy, L. Le Guillou, A. Le Van Suu, P. E. Blanc, M. Moniez, F. Hazenberg, B. Plez, E. Sepulveda, N. Regnault
 
-### Collaboration
-{: style="font-size:.85em; color: #7a8288;"}
+## **Collaboration**
+{: style="color: #7a8288;"}
 ---
 
 **StarDICE I. Sensor calibration bench and absolute photometric calibration of a Sony IMX411 sensor**\

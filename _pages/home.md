@@ -17,11 +17,11 @@ Check my [resume](/files/cv-kelian-sommer.pdf) to learn more about me.
 
 
 <p float="left">
-  <img src="/images/home/logo-in2p3.png" width="100" hspace="30" />
-  <img src="/images/home/logo-lupm.png" width="100" hspace="30" />
-  <img src="/images/home/logo-um.png" width="100" hspace="30"/>
-  <img src="/images/home/logo-stardice.png" width="80" hspace="30"/> 
-  <img src="/images/home/logo-desc.png" width="100" hspace="30"/>
-  <img src="/images/home/logo-ztf.png" width="100" /> 
+  <a href="https://www.in2p3.cnrs.fr/en"><img src="/images/home/logo-in2p3.png" width="100" hspace="30" /></a>
+  <a href="https://www.lupm.in2p3.fr/en/homepage/"><img src="/images/home/logo-lupm.png" width="100" hspace="30" /></a>
+  <a href="https://www.umontpellier.fr/en/"><img src="/images/home/logo-um.png" width="100" hspace="30"/></a>
+  <img src="/images/home/logo-stardice.png" width="80" hspace="30"/>
+  <a href="https://lsstdesc.org/"><img src="/images/home/logo-desc.png" width="100" hspace="30"/></a>
+  <a href="https://www.ztf.caltech.edu/"><img src="/images/home/logo-ztf.png" width="100" /></a>
 </p>
 
