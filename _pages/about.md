@@ -5,7 +5,7 @@ author_profile: true
 classes: wide
 ---
 
-Besides my work, I have a keen interest for astronomy in general. I do visual astronomy since the age of 13 and engaged into the rabbit hole of astrography less than five years ago.
+Besides my work, I have a keen interest for astronomy in general. I do visual astronomy since the age of 13 and engaged into the rabbit hole of astrophotography less than five years ago.
 
 
 <div class="gallery-scroll">

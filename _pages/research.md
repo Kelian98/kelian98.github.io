@@ -29,7 +29,7 @@ gallery2:
 ---
 
 ## **Background**
-{: style="color: #7a8288;"}
+{: style="color: #b3b8bc;"}
 --- 
 
 My research focuses on implementing new experimental methods to improve the calibration of data from cosmic surveys to understand the fundamental nature of dark energy. Dark energy makes up roughly 70% of the universe, yet we know very little about it. The Hubble diagram of type-Ia supernovae (SNe-Ia) offers cosmological limitations on the characteristics of dark energy, but its accuracy is hindered by the calibration of flux in the current spectrophotometric standards. This encourages the need for advancements that enhance the connection between astrophysical flux standards and laboratory standards, aiming to improve the overall understanding of dark energy. My research approaches it through different experimental techniques to specifically enhance the instrument measurements that aim to provide data to enhanced the knowledge of the fundamental nature of dark energy.
@@ -37,7 +37,7 @@ My research focuses on implementing new experimental methods to improve the cali
 I am heavily involved in the development, operation, and analysis of the StarDICE experiment. The StarDICE experiment aims to establish a five-stage metrology chain from NIST photodiodes to stars, with a targeted accuracy of 1 mmag in griz colors. Specifically, I work on the long-wave infrared part of the project, whose goal is to vet and correct photometric observations for atmospheric gray extinction.  This is part of the Photometry Calibration Working Group (PCWG) of the [LSST Dark Energy Science Collaboration (DESC)](https://lsstdesc.org/) upcoming ground-based optical/near-infrared imaging survey of the [Vera Rubin Observatory](https://rubinobservatory.org/). Additionaly, I work on an transportable instrument aiming at characterize telescopes throughput at better than 0.1% level, mainly in the context of my technical contribution to the [Zwicky Transient Facility (ZTF)](https://www.ztf.caltech.edu/).
 
 ## **Recent work**
-{: style="color: #7a8288;"}
+{: style="color: #b3b8bc;"}
 --- 
 
 **Calibration of an uncooled infrared thermal camera for astrophysical site characterization**\
