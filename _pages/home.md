@@ -6,10 +6,11 @@ author_profile: true
 classes: wide
 ---
 
-Hi! I am a PhD student in physics at [Laboratoire Univers et Particules de Montpellier (CNRS/IN2P3)](https://www.lupm.in2p3.fr/), with a master's degree in aerospace engineering.
-I am a member of the [LSST Dark Energy Science Collaboration (DESC)](https://lsstdesc.org/), the [Zwicky Transient Facility (ZTF)](https://www.ztf.caltech.edu/) and mainly involved in the [StarDICE](https://www.aanda.org/articles/aa/abs/2023/02/aa44973-22/aa44973-22.html) calibration metrology experiment for next-generation surveys. 
+Hi! I am a PhD research student working in physics at [Laboratoire Univers et Particules de Montpellier (CNRS/IN2P3)](https://www.lupm.in2p3.fr/), with a master's degree in aerospace engineering.
 
-Although I have a broad interest in various aspects of astrophysics and cosmology thematics, my primary research revolves around the reduction of calibration uncertainties for dark energy measurement in the context of large surveys. As an experimental scientist with a background in engineering, a significant portion of my efforts is dedicated to develop and enhance instruments I employ and analyzing the data they collect.
+Although I have a broad interest in various aspects of astrophysics and cosmology thematics, my primary research revolves around the reduction of calibration uncertainties for dark energy measurement in the context of large surveys. As an experimental scientist with a background in engineering, a significant portion of my efforts is dedicated to develop and enhance instruments I employ and analyzing the data they collect. I'm also interested in cosmology with type 1a supernovae to probe dark energy.
+
+I am a member of the [LSST Dark Energy Science Collaboration (DESC)](https://lsstdesc.org/), the [Zwicky Transient Facility (ZTF)](https://www.ztf.caltech.edu/) and mainly involved in the [StarDICE](https://www.aanda.org/articles/aa/abs/2023/02/aa44973-22/aa44973-22.html) calibration metrology experiment for next-generation surveys.
 
 Check my [resume](/files/cv-kelian-sommer.pdf) to learn more about me. 
 

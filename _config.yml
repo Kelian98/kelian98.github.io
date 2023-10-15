@@ -44,7 +44,7 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "default", "dirt"
 author:
   name             : "Kélian Sommer"
   avatar           : "/images/home/bio-photo.jpg"
-  bio              : "PhD student / Aerospace engineer"
+  bio              : "PhD student at CNRS/IN2P3"
   location         : "France"
   employer         : "CNRS/IN2P3"
   email            : "kelian.sommer@protonmail.com"
