@@ -10,13 +10,18 @@ classes: wide
 {: style="color: #b3b8bc;"}
 --- 
 
-**Design and performance assessment of a Collimated Beam Projector using a broadband light source**\
-*In prep.*\
-K. Sommer, J. Cohen-Tanugi, E. Nuss, B. Plez, M. Betoule, L. Le Guillou, S. Bongard, T. Souverin, J. Neveu, E. Sepulveda
+**Design and performance of a Collimated Beam Projector for telescope transmission measurement using a broadband light source**\
+*In review.*\
+[arXiV](https://arxiv.org/abs/2312.02835)\
+K. Sommer, J. Cohen-Tanugi, B. Plez, M. Betoule, S. Bongard, L. Le Guillou, J. Neveu, E. Nuss, E. Sepulveda, T. Souverin, M. Moniez, C. W. Stubbs
 
 **Calibration of an uncooled LWIR thermal camera for cirrus cloud detection in astronomy**\
 *In prep.*\
 K. Sommer, J. Cohen-Tanugi, E. Nuss, B. Plez, M. Moniez, S. Dagoret-Campagne, M. Betoule, L. Le Guillou, S. Bongard, T.Souverin, J. Neveu, E. Sepulveda.
+
+**Infrared Radiometric Image Classification and Segmentation of Cloud Structure Using Deep-learning Framework for Ground-based Infrared Thermal Camera Observations**\
+*In prep.*\
+K. Sommer, W. Kabalan, R. Brunet, A. Boucaud
 
 **StarDICE : instrumental flux calibration with an artificial star for type 1a supernovae cosmology with the Legacy Survey of Space and Time**\
 *Moriond poster conference proceedings, 2022*\
