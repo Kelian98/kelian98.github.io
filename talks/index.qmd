@@ -8,7 +8,7 @@ page-layout: full
 
 - **6 Oct. 2025** — Network for Ultraviolet Astronomy (NUVA)<br/>
     Marseille, France<br/>
-    [*Characterization and optimization of Skipper CCDs for UV astronomy*]()
+    [*Characterization and optimization of Skipper CCDs for UV astronomy*](2025-10-06_TALK_NUVA2025_KELIAN_SOMMER.pdf)
 
 - **2 Apr. 2025** — Atmosphere Characterization Workshop<br/>
     La Serena, Chile<br/>
@@ -39,6 +39,6 @@ page-layout: full
 
 # Posters
 
-- **26 Jan. 2022** — *56th Rencontres de Moriond 2022 - Cosmology*  
-    La Thuile, Italy  
-    *StarDICE: instrumental flux calibration with an artificial star for type Ia supernovae cosmology with the Legacy Survey of Space and Time*
+- **26 Jan. 2022** — *56th Rencontres de Moriond 2022 - Cosmology*<br/>
+    La Thuile, Italy<br/>
+    [*StarDICE: instrumental flux calibration with an artificial star for type Ia supernovae cosmology with the Legacy Survey of Space and Time*](2022-01-26_POSTER_MORIOND_KELIAN_SOMMER.pdf)
