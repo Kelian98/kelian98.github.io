@@ -1,0 +1,37 @@
+project:
+  type: website
+  render: 
+    - "*.qmd"          # start broad…
+    - "!EXAMPLE/**"   # …then exclude a folder  resources:
+  resources: 
+    - assets/avatar.jpg
+    - assets/BACKGROUND.png
+    - assets/orcid.png
+    - assets/cv/cv-kelian-sommer.pdf
+    - assets/talks/2025-04-01_TALK_Atm_charact_workshop_KELIAN_SOMMER.pdf
+    - assets/talks/2024-06-17_TALK_AS_team_meeting_KELIAN_SOMMER.pdf
+    - assets/talks/2024-05-23_TALK_DESC_PixelToLightCurve_group_meeting_KELIAN_SOMMER.pdf
+    - assets/talks/2023-12-15_TALK_LSST_FRANCE_KELIAN_SOMMER.pdf
+    - assets/talks/2026-01-04_AAS247_TALK_KELIAN_SOMMER.pdf
+
+website:
+  title: "Kélian Sommer"
+  site-url: https://kelian98.github.io
+  description: "My personal website showcasing research in astronomical instrmentation, publications, talks and projects."
+  open-graph:
+    locale: en_US
+  navbar:
+    right:
+      - text: "Home"
+        href: index.qmd
+      - text: "Publications"
+        href: publications
+      - text: "Talks"
+        href: talks
+      - text: "CV"
+        href: cv
+
+format:
+  html:
+    theme: [Flatly]
+    css: assets/styles.css

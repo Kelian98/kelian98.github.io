@@ -1,0 +1,39 @@
+---
+title: "Kélian Sommer"
+image: assets/kelian_profile.jpg
+about:
+  template: trestles
+  links:
+    - text: GitHub
+      icon: github
+      url: "https://github.com/kelian98"
+    - text: Email
+      icon: envelope
+      url: "mailto:kelian.sommer@lupm.in2p3.fr"
+    - text: ORCiD {{< iconify simple-icons:orcid >}}
+      icon: orcid
+      url: "https://orcid.org/0009-0007-5504-5838"
+    - text: Telegram {{< iconify simple-icons:telegram >}}
+      icon: orcid
+      url: "https://t.me/Kelian98"
+comments: false
+format:
+  html:
+    css: assets/index.css
+---
+
+::: {.column-page}
+
+## Bio
+
+Hi! I am a French Postdoctoral Researcher Associate at the Steward Observatory of the University of Arizona, in Tucson, United States.
+
+I completed my PhD in astrophysics at the Laboratoire Univers et Particules de Montpellier (CNRS/IN2P3) in November 2024, during which I specialized in high-precision photometry and the characterization of instrumental and atmospheric transmissions, contributing to experiments such as StarDICE within the Dark Energy Science Collaboration of the Legacy Survey of Space and Time of the Vera C. Rubin Observatory and the Zwicky Transient Facility.
+
+Before my PhD, I graduated from a Master’s degree in Aerospace Engineering at ESTACA Paris-Saclay in 2021.
+
+My current research focuses primarily on the development, optimization, and testing of next-generation photon-counting UV optimized Skipper CCD detectors.
+
+<p></p>
+
+:::
