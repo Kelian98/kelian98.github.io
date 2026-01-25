@@ -1,0 +1,181 @@
+/* Professional CV Styling */
+
+/* Reduce overall font size for CV compactness */
+body {
+  font-size: 1.1rem;
+  line-height: 1.6;
+  color: #333;
+}
+
+/* CV Header - Name prominent */
+h1 {
+  font-size: 2.5rem;
+  margin-bottom: 0.5rem;
+  font-weight: 700;
+  color: #1a1a1a;
+  border-bottom: 3px solid #2c3e50;
+  padding-bottom: 0.5rem;
+}
+
+/* Contact info under name */
+h1 + ul {
+  margin-top: 0.25rem;
+  margin-bottom: 1.5rem;
+  list-style: none;
+  padding-left: 0;
+}
+
+h1 + ul li {
+  display: inline-block;
+  margin-right: 1.5rem;
+  font-size: 1rem;
+}
+
+/* Section headers (h2) - Education, Experience, etc */
+h2 {
+  font-size: 1.6rem;
+  font-weight: 600;
+  color: #6a5acd;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+  padding-bottom: 0.3rem;
+  border-bottom: 3px solid #6a5acd;
+}
+
+/* CV Experience Table - invisible borders */
+table.cv-experience {
+  width: 100%;
+  border-collapse: collapse;
+  border: none;
+  margin-top: 1rem;
+  margin-bottom: 1.5rem;
+}
+
+table.cv-experience tr {
+  border: none;
+}
+
+table.cv-experience td {
+  border: none;
+  vertical-align: top;
+  padding-bottom: 1.2rem;
+}
+
+/* Date column - narrow, top-aligned */
+table.cv-experience td.cv-date {
+  width: 15%;
+  font-size: 1rem;
+  color: #333;
+  padding-right: 1.5rem;
+  line-height: 1.4;
+}
+
+/* Content column */
+table.cv-experience td.cv-content {
+  width: 85%;
+  line-height: 1.6;
+}
+
+/* Job title (bold) */
+table.cv-experience td.cv-content strong {
+  font-size: 1.1rem;
+  color: #000;
+  font-weight: 700;
+}
+
+/* Company name (italic) */
+table.cv-experience td.cv-content em {
+  color: #333;
+  font-size: 1.05rem;
+  font-style: italic;
+}
+
+/* Education and other sections - original styling */
+h2 + p strong:first-child,
+h2 ~ p strong:first-child {
+  font-size: 1.15rem;
+  color: #1a1a1a;
+  font-weight: 600;
+}
+
+h2 + p em,
+h2 ~ p em {
+  color: #555;
+  font-size: 1.05rem;
+}
+
+h2 ~ p {
+  margin-bottom: 0.5rem;
+  line-height: 1.5;
+}
+
+/* Regular bullet points for other sections */
+h2 ~ ul {
+  margin-top: 0.25rem;
+  margin-bottom: 1.25rem;
+  padding-left: 1.5rem;
+}
+
+h2 ~ ul li {
+  margin-bottom: 0.35rem;
+  line-height: 1.5;
+}
+
+/* Skills section - inline formatting */
+h2 ~ ul li strong {
+  color: #2c3e50;
+  font-weight: 600;
+}
+
+/* Horizontal rules between sections */
+hr {
+  border: none;
+  border-top: 1px solid #ddd;
+  margin: 1.5rem 0;
+}
+
+/* Links styling */
+a {
+  color: #3498db;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* Projects/Publications - tighter spacing */
+h2 ~ ul li a {
+  font-weight: 500;
+}
+
+/* Print-friendly */
+@media print {
+  body {
+    font-size: 11pt;
+    line-height: 1.4;
+  }
+
+  h1 {
+    font-size: 20pt;
+  }
+
+  h2 {
+    font-size: 14pt;
+    page-break-after: avoid;
+  }
+
+  p, ul {
+    page-break-inside: avoid;
+  }
+}
+
+/* TOC styling - make compact */
+.sidebar nav[role=doc-toc] ul {
+  padding-left: 1rem;
+  font-size: 0.95rem;
+}
+
+.sidebar nav[role=doc-toc] ul li {
+  margin-bottom: 0.25rem;
+}

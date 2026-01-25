@@ -1,0 +1,30 @@
+/* (Optional) Home page font scaling
+   Note: Leave disabled unless you want extra-large typography on index only.
+   To enable, set font-size to a value like 112.5% (≈18px). */
+/* html {
+  font-size: 112.5%;
+} */
+
+/* Center the About block vertically on the home page */
+/* Works with Quarto's about templates (e.g., trestles, jolla) */
+
+/* Ensure the about section consumes viewport height minus navbar/footer */
+.quarto-about-trestles,
+.quarto-about,
+.about {
+  min-height: calc(100vh - var(--navbar-height, 56px) - var(--pagefooter-height, 0px));
+  align-items: center; /* vertical centering for grid/flex layouts */
+}
+
+
+/* Conservative fallback: if the about container isn't using grid/flex,
+   center its first-level children with flex without changing columns */
+@supports not (align-items: center) {
+  .quarto-about-trestles,
+  .quarto-about,
+  .about {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+}

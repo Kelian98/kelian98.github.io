@@ -1,0 +1,12 @@
+/* Site-wide background image with 20% opacity */
+body::before {
+  content: "";
+  position: fixed;
+  inset: 0;
+  background: url("BACKGROUND.png") center/cover no-repeat fixed;
+  opacity: 0.50;            /* 10% opacity */
+  z-index: -1;             /* stay behind page content */
+  pointer-events: none;
+}
+
+/* Rely on theme defaults for typography so the site matches mm218.dev */
