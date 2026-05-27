@@ -7,13 +7,15 @@ My Ph.D. thesis (written in French) can be found [here](https://theses.fr/2024UM
 
 All my scientific publications can be found either on the [NASA ADS library](https://ui.adsabs.harvard.edu/public-libraries/vHIn4SKVTTyerXDWjpU6qg) or my [ORCID profile](https://orcid.org/0009-0007-5504-5838).
 
-# 2025
+# 2026
 
-- **Sommer, K.**, Plez, B., Cohen-Tanugi, J., Betoule, M., Bongard, S., Souverin, T., Dagoret-Campagne, S., Moniez, M., Neveu, J., Feinstein, F., Juramy, C., Le Guillou, L., Sepulveda, E., and Nuss, E. 2025. [StarDICE IV: correcting visible photometry from atmospheric gray extinction using thermal infrared observations](https://arxiv.org/abs/2511.00182). arXiv:2511.00182 [astro-ph.IM].
+- **Sommer, K.**, Plez, B., Cohen-Tanugi, J., Betoule, M., Bongard, S., Souverin, T., Dagoret-Campagne, S., Moniez, M., Neveu, J., Feinstein, F., Juramy, C., Le Guillou, L., Sepulveda, E., and Nuss, E. 2026. [StarDICE IV: correcting visible photometry from atmospheric gray extinction using thermal infrared observations](https://doi.org/10.1093/rasti/rzag011). RAS Techniques and Instruments, Volume 5, 2026, rzag011.
+
+# 2025
 
 - **Sommer, K.**, Kabalan, W., and Brunet, R. 2025. [Infrared Radiometric Image Classification And Segmentation Of Cloud Structures Using A Deep-Learning Framework From Ground-Based Infrared Thermal Camera Observations](https://doi.org/10.5194/amt-18-2083-2025). Atmospheric Measurement Techniques, 18, 2083–2101.
 
-- Souverin, T., Neveu, J., Betoule, M., Bongard, S., Stubbs, C. W., Urbach, E., Brownsberger, S., Blanc, P. É., Cohen-Tanugi, J., Dagoret-Campagne, S., Feinstein, F., Hardin, D., Juramy, C., Le Guillou, L., Le Van Suu, A., Moniez, M., Nuss, É., Plez, B., Regnault, N., Sepulveda, E., **Sommer, K.**, and LSST Dark Energy Science Collaboration. 2025. [StarDICE III: characterization of the photometric instrument with a collimated beam projector](https://arxiv.org/abs/2410.24173). RAS Techniques and Instruments, 4, rzaf010.
+- Souverin, T., Neveu, J., Betoule, M., Bongard, S., Stubbs, C. W., Urbach, E., Brownsberger, S., Blanc, P. É., Cohen-Tanugi, J., Dagoret-Campagne, S., Feinstein, F., Hardin, D., Juramy, C., Le Guillou, L., Le Van Suu, A., Moniez, M., Nuss, É., Plez, B., Regnault, N., Sepulveda, E., **Sommer, K.**, and LSST Dark Energy Science Collaboration. 2025. [StarDICE III: characterization of the photometric instrument with a collimated beam projector](https://doi.org/10.1093/rasti/rzaf010). RAS Techniques and Instruments, Volume 4, 2025, rzaf010.
 
 # 2024
 
@@ -23,13 +25,13 @@ All my scientific publications can be found either on the [NASA ADS library](htt
 
 - Souverin, T., Neveu, J., Betoule, M., Bongard, S., Blanc, P. E., Cohen-Tanugi, J., Dagoret-Campagne, S., Feinstein, F., Ferrari, M., Hazenberg, F., Juramy, C., Le Guillou, L., Le Van Suu, A., Moniez, M., Nuss, É., Plez, B., Regnault, N., Sepulveda, E., and **Sommer, K.** 2024. [StarDICE: a photometric calibration experiment to anchor standard stars on the NIST flux scale at the milli-magnitude level](https://doi.org/10.1117/12.3018290). In *Ground-based and Airborne Instrumentation for Astronomy X* (SPIE Vol. 13096).
 
-- **Sommer, K.**, Cohen-Tanugi, J., Plez, B., Betoule, M., Bongard, S., Le Guillou, L., Neveu, J., Nuss, E., Sepulveda, E., Souverin, T., Moniez, M., and Stubbs, C. W. 2024. [Design and performance of a collimated beam projector for telescope transmission measurement using a broad-band light source](https://arxiv.org/abs/2312.02835). RAS Techniques and Instruments, 3(1), 125–142.
+- **Sommer, K.**, Cohen-Tanugi, J., Plez, B., Betoule, M., Bongard, S., Le Guillou, L., Neveu, J., Nuss, E., Sepulveda, E., Souverin, T., Moniez, M., and Stubbs, C. W. 2024. [Design and performance of a collimated beam projector for telescope transmission measurement using a broad-band light source](https://doi.org/10.1093/rasti/rzae006). RAS Techniques and Instruments, 3(1), 125–142.
 
 # 2023
 
-- Carreres, B., Bautista, J. E., Feinstein, F., Fouchez, D., Racine, B., Smith, M., Amenouche, M., Aubert, M., Dhawan, S., Ginolin, M., Goobar, A., Gris, P., Lacroix, L., Nuss, E., Regnault, N., Rigault, M., Robert, E., Rosnet, P., **Sommer, K.**, Dekany, R., Groom, S. L., Sravan, N., Masci, F. J., and Purdum, J. 2023. [Growth-rate measurement with type-Ia supernovae using ZTF survey simulations](https://arxiv.org/abs/2303.01198). Astronomy & Astrophysics, 674, A197.
+- Carreres, B., Bautista, J. E., Feinstein, F., Fouchez, D., Racine, B., Smith, M., Amenouche, M., Aubert, M., Dhawan, S., Ginolin, M., Goobar, A., Gris, P., Lacroix, L., Nuss, E., Regnault, N., Rigault, M., Robert, E., Rosnet, P., **Sommer, K.**, Dekany, R., Groom, S. L., Sravan, N., Masci, F. J., and Purdum, J. 2023. [Growth-rate measurement with type-Ia supernovae using ZTF survey simulations](https://doi.org/10.1051/0004-6361/202346173). Astronomy & Astrophysics, 674, A197.
 
-- Betoule, M., Antier, S., Bertin, E., Blanc, P. É., Bongard, S., Cohen-Tanugi, J., Dagoret-Campagne, S., Feinstein, F., Hardin, D., Juramy, C., Le Guillou, L., Le Van Suu, A., Moniez, M., Neveu, J., Nuss, É., Plez, B., Regnault, N., Sepulveda, E., **Sommer, K.**, Souverin, T., and Wang, X. F. 2023. [StarDICE I: Sensor calibration bench and absolute photometric calibration of a Sony IMX411 sensor](https://arxiv.org/abs/2211.04913). Astronomy & Astrophysics, 670, A119.
+- Betoule, M., Antier, S., Bertin, E., Blanc, P. É., Bongard, S., Cohen-Tanugi, J., Dagoret-Campagne, S., Feinstein, F., Hardin, D., Juramy, C., Le Guillou, L., Le Van Suu, A., Moniez, M., Neveu, J., Nuss, É., Plez, B., Regnault, N., Sepulveda, E., **Sommer, K.**, Souverin, T., and Wang, X. F. 2023. [StarDICE I: Sensor calibration bench and absolute photometric calibration of a Sony IMX411 sensor](https://doi.org/10.1051/0004-6361/202244973). Astronomy & Astrophysics, 670, A119.
 
 # 2022
 

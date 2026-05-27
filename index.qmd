@@ -26,13 +26,13 @@ format:
 
 ## Bio
 
-Hi! I am a French Postdoctoral Researcher Associate at the Steward Observatory of the University of Arizona, in Tucson, United States.
+Hi! I am a French **Postdoctoral Researcher Associate** at the **Steward Observatory of the University of Arizona**, in Tucson, United States.
 
-I completed my PhD in astrophysics at the Laboratoire Univers et Particules de Montpellier (CNRS/IN2P3) in November 2024, during which I specialized in high-precision photometry and the characterization of instrumental and atmospheric transmissions, contributing to experiments such as StarDICE within the Dark Energy Science Collaboration of the Legacy Survey of Space and Time of the Vera C. Rubin Observatory and the Zwicky Transient Facility.
+I completed my **PhD in astrophysics at the Laboratoire Univers et Particules de Montpellier (CNRS/IN2P3)** in November 2024, during which I specialized in astronomical instrumentation. More specifically, I worked on **high-precision photometry** and the **characterization of instrumental and atmospheric transmissions**, contributing to experiments such as **StarDICE** within the **Dark Energy Science Collaboration of the Legacy Survey of Space and Time of the Vera C. Rubin Observatory** and the **Zwicky Transient Facility**.
 
-Before my PhD, I graduated from a Master’s degree in Aerospace Engineering at ESTACA Paris-Saclay in 2021.
+Before my PhD, I graduated from a **Master’s degree in Aerospace Engineering** at **ESTACA Paris-Saclay** in 2021.
 
-My current research focuses primarily on the development, optimization, and testing of next-generation photon-counting UV optimized Skipper CCD detectors.
+My current research focuses primarily on the development, optimization, and testing of **next-generation photon-counting UV optimized Skipper CCD detectors**.
 
 <p></p>
 
